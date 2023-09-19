@@ -76,7 +76,7 @@ main h1 {
     padding-left: 10px;
     color: white;
     background-color: var(--cor1);   
-    box-shadow: 3px 4px 7px 0px rgba(0, 0, 0, 0.897);
+    box-shadow: 3px 4px 7px 0px rgba(0, 0, 0, 0.389);
 }
 
 main h2 {
